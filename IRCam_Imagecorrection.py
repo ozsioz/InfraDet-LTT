@@ -1,6 +1,6 @@
 # -*- Image Barrel Correction*-
 """
-Modified to iots latest version on 24 November 2023
+Modified to its latest version on 24 November 2023
 
 @author: Özge Sinem Özçakmak
 ozgesinemozcakmak@gmail.com
