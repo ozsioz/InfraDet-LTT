@@ -9,7 +9,8 @@ This tool was built for detecting the physical phenomena of laminar to turbulent
 All the calibration and experiment imahges should be corrected with the same code settings
 
 ## InfraDet_calibration.py
-This code transfers image pizel positions to the physical chorswise positions on the model for each angle of attack value, creates coefficients for the and it creates an output file calibrationIR_upper.dat, which is used in transition/separation detection tool infradet_ltt.py
+This code transfers image pizel positions to the physical chorswise positions on the model for each angle of attack value, createsa curve-fit coeffcients for each chorswise position, and it creates an output file calibrationIR_upper.dat, which is used in transition/separation detection tool infradet_ltt.py
 
 ## calibrationIR_upper.dat
-This output file is obtained for chorswise locations of 0,10,20,30,40,50,60,70,80,90 % on the model for various angle of attacks (e.g. using more files than uploaded in this demo, so it is more accurate than the one the user would obtained with three images)
+This output file is obtained for chorswise locations of 0,10,20,30,40,50,60,70,80,90 % on the model for various angle of attacks (e.g. using more files than the ones uploaded in this demo. Therefore it is more accurate. 
+
